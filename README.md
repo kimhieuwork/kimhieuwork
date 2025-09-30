@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hieu and I'm a C# Developer, from Vietnam</p>
+<p align="left">My name is Hieu and I'm a C# Developer, from Vietnam 🇻🇳 </p>
 
 ###
 
