@@ -9,11 +9,20 @@
 <h2 align="left">About me</h2>
 
 ###
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kimhieuwork&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  
-<p align="right">✨ Creating bugs since 2021<br>📚 I'm currently learning modern technologies base on C#<br>🎯 Goals: Senior C# Developer<br>🎲 Fun fact: I'm strongest "wibu" in the world!</p>
-</div>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kimhieuwork&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+    </td>
+    <td>
+      ✨ Creating bugs since 2021<br>
+      📚 I'm currently learning modern technologies base on C#<br>
+      🎯 Goals: Senior C# Developer<br>
+      🎲 Fun fact: I'm strongest "wibu" in the world!
+    </td>
+  </tr>
+</table>
 
 ###
 
