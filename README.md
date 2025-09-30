@@ -14,11 +14,9 @@
   
 <p align="right">✨ Creating bugs since 2021<br>📚 I'm currently learning modern technologies base on C#<br>🎯 Goals: Senior C# Developer<br>🎲 Fun fact: I'm strongest "wibu" in the world!</p>
 
-###
 
+###
 <h2 align="left">I code with</h2>
-
-###
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/visualstudio/visualstudio-original.svg" height="40" alt="visualstudio logo"  />
