@@ -21,6 +21,9 @@
       🎯 Goals: Senior C# Developer<br>
       🎲 Fun fact: I'm strongest "wibu" in the world!
     </td>
+    <td>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3piMW1vZ2E1MDU2ajIzYmgzajJ1YXFscnQ3c2thcDh2d2twbDB5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRk3GLfzduq1NtfGt5/giphy.gif" height="150" alt="cat"/>
+    </td>
   </tr>
 </table>
 
